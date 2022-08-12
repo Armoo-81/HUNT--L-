@@ -1,0 +1,10 @@
+404 Not Found
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+Content-Type: application/json; charset=utf-8
+Content-Length: 105
+X-Response-Time: 0ms
+Retry-Count: 0
+Date: Tue, 09 Aug 2022 00:54:39 GMT
+Access-Control-Allow-Headers: Content-Type, Authorization, Accept, Cache-Control, X-Requested-With, sentiance-caller-id, sentiance-token-type
+Access-Control-Allow-Methods: GET,PUT,POST,DELETE,PATCH

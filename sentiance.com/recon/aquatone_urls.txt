@@ -1,0 +1,14 @@
+https://api.h11.sentiance.com/
+https://tiles-integration.sentiance.com/
+https://firehose.h11.sentiance.com/
+http://insights.h11.sentiance.com/
+http://docs.sentiance.com/
+https://insights.h11.sentiance.com/
+https://track.sentiance.com/
+http://track.sentiance.com/
+https://docs.sentiance.com/
+http://tiles-integration.sentiance.com/
+http://drive.sentiance.com/
+http://firehose.h11.sentiance.com/
+https://staging3.sentiance.com/
+https://docs.sentiance.com:8443/

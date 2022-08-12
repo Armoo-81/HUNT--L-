@@ -1,0 +1,13 @@
+200 OK
+Content-Type: text/html
+Content-Length: 1209
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Server: nginx
+X-Frame-Options: DENY
+Date: Tue, 09 Aug 2022 00:54:42 GMT
+Accept-Ranges: bytes
+Content-Security-Policy: frame-ancestors 'self' *.sentiance.com
+Etag: "6231bd90-4b9"
+Last-Modified: Wed, 16 Mar 2022 10:36:00 GMT
+X-Xss-Protection: 1;mode=block

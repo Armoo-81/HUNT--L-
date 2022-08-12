@@ -1,0 +1,11 @@
+200 OK
+Vary: Accept-Encoding
+Date: Tue, 09 Aug 2022 00:54:42 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: PHPSESSID=e67e4f6cbf23d5976647beb00e009c18; expires=Tue, 09-Aug-2022 10:54:42 GMT; path=/; secure; httponly
+Strict-Transport-Security: max-age=31536000
+Retry-Count: 0
+Server: nginx/1.4.6 (Ubuntu)
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
